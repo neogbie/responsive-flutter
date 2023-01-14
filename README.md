@@ -1,6 +1,8 @@
 # webapp
 
-A new Flutter project.
+A new Flutter Responsive Web project.
+
+<img src="https://s3.gifyu.com/images/flutter-respo.gif"/>
 
 ## Getting Started
 
